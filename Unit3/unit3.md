@@ -27,6 +27,7 @@
 
 2. ssh 사용하여 ubuntu 인스턴스 외부 접속
    - 수행한 화면 혹은 내용을 작성해 주세요
+![Uploading image.png…]()
 
 <br/>
 

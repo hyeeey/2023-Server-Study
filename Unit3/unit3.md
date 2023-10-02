@@ -21,6 +21,7 @@
 ## ❗️ 3주차 과제
 1. AWS EC2 인스턴스 생성
    - 수행한 화면 혹은 내용을 작성해 주세요
+![image](https://github.com/hyeeey/2023-Server-Study/assets/145014275/13ed99b6-f82f-410d-ae18-d99616cf0362)
 
 <br/>
 
